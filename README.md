@@ -30,7 +30,7 @@ For this case study we're going to use several classification model to predict w
 9) Cross Validation + Hyperparameter Tuning
 10) Model Diagnosis Using Probability Calibration, ROC AUC Curve, Precision-Recall Curve
 
-### Notebooks:
+### Files links:
 1) <a href = "https://github.com/kumapri/Lead_Score_Case_study/blob/main/Lead%20Score%20Case%20Study_final.ipynb"> Jupiter Notebook for Lead Score Case Study
 2) <a href = "https://github.com/kumapri/Lead_Score_Case_study/blob/main/LeadScore%20case%20study%20PPT.pdf">Lead Scoring Model Presentation
 3) <a href = "https://github.com/kumapri/Lead_Score_Case_study/blob/main/Assignment%20Subjective%20Questions.pdf"> Lead Scoring Model Assignment Questions
